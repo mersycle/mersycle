@@ -78,4 +78,4 @@ def str2float(s):
 		a = -a1-(0.1**b)*a2
 	return a
 
-print('str2float(\'123.456\')',str2float('123.456'))
+print('str2float(\'123.456\')=',str2float('123.456'))
